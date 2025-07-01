@@ -128,6 +128,7 @@ Weil ich glaube:
 > **Wer KI versteht, kann Gerechtigkeit, Nachhaltigkeit  
 und Chancen mitgestalten – nicht nur konsumieren.**
 
-Deshalb lerne ich nicht nur für mich.  
+TEST: Deshalb lerne ich nicht nur für mich.  
 **Ich lerne für uns.**
 """)
+
